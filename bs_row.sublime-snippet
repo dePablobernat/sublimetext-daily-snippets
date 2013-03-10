@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="row${1:-fluid}">
+  <div class="span${2:4}">
+  	${3:what}
+  </div>
+  <div class="span${4:8}">
+  	${5:what}
+  </div>
+</div>
+]]></content>
+	<tabTrigger>row</tabTrigger>
+</snippet>

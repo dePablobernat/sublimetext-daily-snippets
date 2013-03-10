@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+</head>
+<body>
+	<header>
+		<hgroup></hgroup>
+	</header>
+
+	<aside></aside>
+	
+	<main>
+		<article>
+			<header></header>
+			<section></section>
+		</article>
+	</main>
+
+	<footer></footer>
+
+</body>
+</html>
+]]></content>
+	<tabTrigger>html5</tabTrigger>
+</snippet>

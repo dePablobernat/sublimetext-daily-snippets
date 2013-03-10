@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<link rel="apple-touch-startup-image" href="startup.png">
+<link rel="apple-touch-icon" href="touch-icon-iphone.png" />
+]]></content>
+	<tabTrigger>webcap</tabTrigger>
+</snippet>

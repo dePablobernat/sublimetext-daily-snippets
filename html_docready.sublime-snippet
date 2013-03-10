@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$(document).ready(function() {
+	$0
+});]]></content>
+
+	<tabTrigger>docready</tabTrigger>
+	<description>jQuery ready function</description>
+	<scope>source.js,source.js.embedded.html</scope>
+</snippet>

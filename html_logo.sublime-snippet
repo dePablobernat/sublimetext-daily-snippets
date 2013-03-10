@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<div class="${1:logo} span${2:12}">
+	<h1><a href="${3:#id}"><span>${4:hiddenname}</span></a></h1>
+</div>
+]]></content>
+	<tabTrigger>logo</tabTrigger>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+  \$("${1:#buttonid}").click(function(){
+    \$("${2:#toggled-id}").toggleClass("${3:flipped}");
+  });
+]]></content>
+	<tabTrigger>togg</tabTrigger>
+</snippet>

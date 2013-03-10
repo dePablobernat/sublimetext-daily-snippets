@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+.logo h1 {background: transparent url("../img/${1:logo.png}") 0 0 no-repeat; width:${2:200}px; height:${3:200}px; ${4:margin: 20px auto;}}
+.logo span {display: none;}
+.logo a {display:block; width:${2:200}px; height:${3:200}px;}
+]]></content>
+	<tabTrigger>logostyle</tabTrigger>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+/* -- ${1:separatorname} -- */
+${2}
+]]></content>
+	<tabTrigger>ccom3</tabTrigger> 
+</snippet>
